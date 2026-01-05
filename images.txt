@@ -1,3 +1,4 @@
 mcr.microsoft.com/vscode/devcontainers/java:0-17-bullseye
 mcr.microsoft.com/devcontainers/java:8-bullseye
 mcr.microsoft.com/devcontainers/java:17-bookworm
+ghcr.nju.edu.cn/devcontainers/features/java:1.6.3
